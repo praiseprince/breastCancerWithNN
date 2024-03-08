@@ -29,4 +29,4 @@ This project demonstrates the use of a neural network for classifying breast can
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/breast-cancer-classification.git
+   git clone https://github.com/praiseprince/breastCancerWithNN.git
